@@ -1,18 +1,39 @@
+---
+title: "Rules and Planning"
+author: "Eric Fastner"
+date: "January 1, 2019"
+output: html_document
+---
+
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+January 1st, 2019
 
+##Project Goals
+* Improve knowledge of programming concepts, specifically with R
+* Improve my knowledge of data analysis
+* Create a portfolio of projects to demonstate my knowledge, problem solving process, etc
+* Identify new opportunities in my life to utilize coding to simplify my life
+
+##Guidelines
+1. AT LEAST an hour!
+2. "Coding" will not be limited to only writing lines of code. Other acceptable tasks may include:
+  + Researching new concepts or processes related to coding that may further a current project
+  + Data analysis utilizing R or RStudio
+  + Meeting with Hockey Graphs mentor regarding current coding/stats work
+  + Learning more about Github
+3. 
+  
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
-
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
@@ -21,8 +42,13 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+## Possible Project Ideas
+* **100 Days of Code-** Create tracking app that times my hour of coding, tweets my results, and possibly commits work to github
+* **100 Days of Code-** Create nagging script that begins to send me reminders to code after a certain time of the day
+* **Hockey Stats-** Create a game summary that can be updated based on raw PBP data for a specific game
+* **Hocky Stats-** Create a Shiny app based on previous lock-line analysis to track team performance
+* **Hockey Stats-** Continue to predict the ceiling of young hockey prospects
+* **Hockey Stats-** Create an expected goals model
+* **SQL-** Convert existing hockey data sets saves as .txt into a SQL database that can be accessed as needed via R/RStudio
+* **Twitter API-** Create Gmorning/Gnight app based on Lin-Manuel Miranda's tweets
+* **Habit Building-** Create habit tracker based on [this tweet](https://twitter.com/ali01/status/1078647576201703427) about creating a tracker that you can use daily to log your efficiency on building new habits
