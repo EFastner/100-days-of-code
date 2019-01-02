@@ -51,4 +51,5 @@ January 1st, 2019
 * **Hockey Stats-** Create an expected goals model
 * **SQL-** Convert existing hockey data sets saves as .txt into a SQL database that can be accessed as needed via R/RStudio
 * **Twitter API-** Create Gmorning/Gnight app based on Lin-Manuel Miranda's tweets
+* **IMDB Web Scraper-** Revisit the web scraping scripts built for scraping movie data on IMDB
 * **Habit Building-** Create habit tracker based on [this tweet](https://twitter.com/ali01/status/1078647576201703427) about creating a tracker that you can use daily to log your efficiency on building new habits
