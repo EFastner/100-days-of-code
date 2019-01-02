@@ -15,7 +15,7 @@ January 1st, 2019
 
 ##Project Goals
 * Improve knowledge of programming concepts, specifically with R
-* Improve my knowledge of data analysis
+* Improve my knowledge of data analysis and statistics
 * Create a portfolio of projects to demonstate my knowledge, problem solving process, etc
 * Identify new opportunities in my life to utilize coding to simplify my life
 
@@ -26,7 +26,7 @@ January 1st, 2019
   + Data analysis utilizing R or RStudio
   + Meeting with Hockey Graphs mentor regarding current coding/stats work
   + Learning more about Github
-3. 
+3. Computer science related items (Learning Linux Command Line, setting up NAS, etc) may be acceptable, but keep in mind that this is not part of the ultimate goal
   
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
