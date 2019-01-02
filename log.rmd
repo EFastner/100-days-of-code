@@ -10,7 +10,9 @@ output: html_document
 
 ### Day 0: January 1, 2019
 
-**Today's Progress**:
+**Time:**
+
+**Today's Progress:**
 
 **Thoughts:**
 
@@ -22,8 +24,10 @@ output: html_document
 
 ### Day 1: January 1, 2019
 
-**Today's Progress**: 
+**Time:** 120 Minutes (8:30 PM - 10:30 PM)
 
-**Thoughts:** 
+**Today's Progress:** Forked and Modified the 100 Days of Code resources to fit my needs. Split my previous Lock Line Analysis into it's own repository via [this page](https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/)
 
-**Link to work:** 
+**Thoughts:** Lots of misc items completed that I've been putting off for awhile, I almost pushed the start of this until tomorrow. Ultimately, it was still a really positive 2 hours! 
+
+**Link to work:** [New Lock Line Analysis Repo](https://github.com/EFastner/Lock_Line_Analysis), [100 Days of Code Repo](https://github.com/EFastner/100-days-of-code)
