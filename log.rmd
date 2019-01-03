@@ -31,3 +31,13 @@ output: html_document
 **Thoughts:** Lots of misc items completed that I've been putting off for awhile, I almost pushed the start of this until tomorrow. Ultimately, it was still a really positive 2 hours! 
 
 **Link to work:** [New Lock Line Analysis Repo](https://github.com/EFastner/Lock_Line_Analysis), [100 Days of Code Repo](https://github.com/EFastner/100-days-of-code)
+
+### Day 2: January 2, 2019
+
+**Time:** 120 Minutes (10:00) PM - 12:00 AM)
+
+**Today's Progress:** Converted lock line vizualization script into a function, branched the file via [these instructions](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging), and re-merged with the master branch
+
+**Thoughts:** I need to get more comfortable with branching, but we'll get there. The foundations for this function may be fun to ultimately load into some sort of Shiny app. The code is becoming a lot more flexible
+
+**Link to work:** [New Lock Line Viz Function](https://github.com/EFastner/Lock_Line_Analysis/blob/master/lock_line_viz.R)
