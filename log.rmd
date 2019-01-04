@@ -34,10 +34,20 @@ output: html_document
 
 ### Day 2: January 2, 2019
 
-**Time:** 120 Minutes (10:00) PM - 12:00 AM)
+**Time:** 120 Minutes (10:00 PM - 12:00 AM)
 
 **Today's Progress:** Converted lock line vizualization script into a function, branched the file via [these instructions](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging), and re-merged with the master branch
 
 **Thoughts:** I need to get more comfortable with branching, but we'll get there. The foundations for this function may be fun to ultimately load into some sort of Shiny app. The code is becoming a lot more flexible
 
 **Link to work:** [New Lock Line Viz Function](https://github.com/EFastner/Lock_Line_Analysis/blob/master/lock_line_viz.R)
+
+### Day 3: January 3, 2019
+
+**Time:** 90 Minutes (8:15 PM - 9:45 PM)
+
+**Today's Progress:** Experimented with the RPostgreSQL package in R to learn how to interact with PostgreSQL. Utilized an [r-bloggers](https://www.r-bloggers.com/getting-started-with-postgresql-in-r/) tutorial to get started. 
+
+**Thoughts:** This was a big confidence boost. I've been a little intimidated about getting this set up, but it was WAY easier than I thought it would be. Glad I have this challenge to make me sit down and figure some of this out
+
+**Link to work:** [New RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions)
