@@ -51,3 +51,23 @@ output: html_document
 **Thoughts:** This was a big confidence boost. I've been a little intimidated about getting this set up, but it was WAY easier than I thought it would be. Glad I have this challenge to make me sit down and figure some of this out
 
 **Link to work:** [New RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions)
+
+### Day 4: January 4, 2019
+
+**Time:** 60 Minutes (7:30 PM - 8:30 PM)
+
+**Today's Progress:** Kind of a light day. Didn't get a lot done. Played around with the RPostgreSQL commands to begin creating and populating tables via RStudio
+
+**Thoughts:** Mostly exploratory, should come in handy for Day 5
+
+**Link to work:** [New RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions)
+
+### Day 5: January 5, 2019
+
+**Time:** >150 Minutes (Off and on from 10 AM - 4:00 PM)
+
+**Today's Progress:** Created and populated tables with game results by season from 2007 - 2018, a table with the same data organized by team, and a table with each individual skater's stats going back to 2007. Updated some old summary functions as well
+
+**Thoughts:** Lots of work to do! I need to stop reusing the table creation and populating functions for specific tables. Either I need to make them more flexible, or I need to start creating separate functions for each new table. The game summary and skater summary functions could also use some extra documentation/streamlining. Maybe this would be a good time to start inplementing some unit testing? 
+
+**Link to work:** [New RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions), [Skater Summary](https://github.com/EFastner/PbP_Analysis/tree/master/PBP_Functions)
