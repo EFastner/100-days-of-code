@@ -2,7 +2,9 @@
 title: "100 Days of Code Tracking Log"
 author: "Eric Fastner"
 date: "January 1, 2019"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---  
 
 
@@ -71,3 +73,23 @@ output: html_document
 **Thoughts:** Lots of work to do! I need to stop reusing the table creation and populating functions for specific tables. Either I need to make them more flexible, or I need to start creating separate functions for each new table. The game summary and skater summary functions could also use some extra documentation/streamlining. Maybe this would be a good time to start inplementing some unit testing? 
 
 **Link to work:** [New RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions), [Skater Summary](https://github.com/EFastner/PbP_Analysis/tree/master/PBP_Functions)
+
+### Day 6: January 6, 2019
+
+**Time:** >90 Minutes (8:30pm to 10pm)
+
+**Today's Progress:** Played around with twitteR package on CRAN. Used instructions from [here](https://towardsdatascience.com/access-data-from-twitter-api-using-r-and-or-python-b8ac342d3efe) to get started
+
+**Thoughts:** Frustrating day. I started out by just experimenting with the twitteR package and ultimately pulled all off Lin Manuel Miranda's "Gmorning" and "Gnight" tweets, however the function seems to only pull the truncated version of tweets when they are over 140 characters. I spent a lot of time trying to find a solution, but up until this point I've come up short. Other options would be to switch over to the rtweet package, or to just pull the API myself. I sort of like the latter, as I don't have much experience with APIs. 
+
+**Link to work:** [Twitter API Functions](https://github.com/EFastner/twitter_api)
+
+### Day 7: January 7, 2019
+
+**Time:** >90 Minutes (7:30pm to 9:00pm)
+
+**Today's Progress:** Experimented more with RPostgreSQL, created some new tables, and set up some functions to make basic queries. These should come in handy for pulling data across seasons. One of the issues that I used to have was reading multiple seasons into memory from multiple .csv files and then filtering out what I needed. Now I should be able to just query the filtered data straight from the SQL tables as needed.
+
+**Thoughts:** I'm really excited about where this is going. I added in the tables with draft years, which means I can hopefully use this code to query data by game for each player
+
+**Link to work:** [Basic RPostgreSQL Queries](https://github.com/EFastner/RPostgreSQL_Functions/blob/master/basic_queries.r)
