@@ -3,8 +3,8 @@ title: "100 Days of Code Tracking Log"
 author: "Eric Fastner"
 date: "January 1, 2019"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---  
 
 
@@ -111,5 +111,15 @@ output:
 **Today's Progress:** Started to learn how to design a Shiny App using this [tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/). Got through the first 8 sections and now need to implement some server logic
 
 **Thoughts:** This was a whole lot of fun! Shiny apps seem a lot easier than I thought, I think it may be possible to implement this with the lock line analysis that I did earlier than I thought 
+
+**Link to work:** [Shiny App Tutorial](https://github.com/EFastner/shiny_app_tutorial)
+
+### Day 10: January 10, 2019
+
+**Time:** 60 Minutes (10:40pm to 11:40pm)
+
+**Today's Progress:** Continued the tutorial from yesterday. Added interactive plots to go with the ui setup 
+
+**Thoughts:** This was a little more challenging, especially because it's clearly been awhile since I've used ggplot2. I'll need a refresher before long
 
 **Link to work:** [Shiny App Tutorial](https://github.com/EFastner/shiny_app_tutorial)
