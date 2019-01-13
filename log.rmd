@@ -3,8 +3,8 @@ title: "100 Days of Code Tracking Log"
 author: "Eric Fastner"
 date: "January 1, 2019"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---  
 
 
@@ -133,3 +133,13 @@ output:
 **Thoughts:** There is a lot ot unpack in Shiny. I think next steps should be just to start building a lock line app and see what happens
 
 **Link to work:** [Final Shiny App](https://efastner.shinyapps.io/Shiny_App_Tutorial/)
+
+### Day 12: January 12, 2019
+
+**Time:** 120 Minutes (8:30am to 9:30am and 5:00pm to 6:00pm)
+
+**Today's Progress:** Started to build a Shiny app for the Lock Line Analysis that I had completed previously
+
+**Thoughts:** Shiny apps are still a little confusing....I'll have to do some work here to really understand it.
+
+**Link to work:** [Lock Line Shiny App](https://github.com/EFastner/Lock_Line_Analysis/tree/master/shiny_app)
