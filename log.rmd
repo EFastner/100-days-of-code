@@ -143,3 +143,13 @@ output:
 **Thoughts:** Shiny apps are still a little confusing....I'll have to do some work here to really understand it.
 
 **Link to work:** [Lock Line Shiny App](https://github.com/EFastner/Lock_Line_Analysis/tree/master/shiny_app)
+
+### Day 13: January 13, 2019
+
+**Time:** 75 Minutes (11:00am to 12:45am)
+
+**Today's Progress:** Fixed an issue with the date format showing up incorrectly in my lock line Shiny App, added an export button, published to shinyapps.io
+
+**Thoughts:** Shiny is confusing, but it's certainly fun to use! Hopefully as I keep using it I'll get more comfortable with the concepts that it utilizes
+
+**Link to work:** [Lock Line Shiny App on shinyapps.io](https://efastner.shinyapps.io/lock_line_analysis/)
