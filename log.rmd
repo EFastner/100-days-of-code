@@ -153,3 +153,13 @@ output:
 **Thoughts:** Shiny is confusing, but it's certainly fun to use! Hopefully as I keep using it I'll get more comfortable with the concepts that it utilizes
 
 **Link to work:** [Lock Line Shiny App on shinyapps.io](https://efastner.shinyapps.io/lock_line_analysis/)
+
+### Day 14: January 14, 2019
+
+**Time:** 90 Minutes (9:00pm to 10:30pm)
+
+**Today's Progress:** Cleaned up the plot for the lock line Shiny app, added an overview and definitions to the sidebar, changed data table to use the DT package
+
+**Thoughts:** I'm getting more comfortable with Shiny, but I still feel like I have a long way to go!
+
+**Link to work:** [Lock Line Shiny App on shinyapps.io](https://efastner.shinyapps.io/lock_line_analysis/)
