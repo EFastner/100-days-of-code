@@ -3,8 +3,8 @@ title: "100 Days of Code Tracking Log"
 author: "Eric Fastner"
 date: "January 1, 2019"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---  
 
 
@@ -173,3 +173,43 @@ output:
 **Thoughts:** There was a rough moment when I accidentally used "rm" instead of "mv" on the command line and almost lost everything, but I got it back! It's clear that there is an issue with my GameScores in my SQL database. I'll need to investigate tomorrow.
 
 **Link to work:** [Start of code to create skater list](https://github.com/EFastner/Mentorship_Project/blob/master/data_analysis/skater_list.r)
+
+### Day 16: January 16, 2019
+
+**Time:** 60 Minutes (2:30pm to 3:30pm)
+
+**Today's Progress:** Played around with some basic functions in rtweet. Laid building blocks for the gmorning_gnight functions
+
+**Thoughts:** This is way easier than twitteR!
+
+**Link to work:** [Basic rtweet functions](https://github.com/EFastner/twitter_api/blob/master/rtweet_basics.r)
+
+### Day 17: January 17, 2019
+
+**Time:** 60 Minutes (6:00pm to 6:30pm and 9:30pm to 10:00pm)
+
+**Today's Progress:** Split out gmorning_gnight functions, found a way to identify which tweet could possibly be the right tweet on a day where the keyword is used multiple times
+
+**Thoughts:** I'm not sure how I can better identify the right tweets, but there is still something to be desired on here
+
+**Link to work:** [gmorning_gnight](https://github.com/EFastner/twitter_api/blob/master/Gmorning_Gnight.r)
+
+### MISSED - Day 18: January 18, 2019
+
+**Time:**
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 19: January 19, 2019
+
+**Time:** 90 Minutes (5:15pm to 6:45pm)
+
+**Today's Progress:** Updated my RPostgreSQL functions to make them more functional. Added getPass functionality to the connection function, made the create table function work with variables for the table name and the column names, created a function that creates the string for creating row names for large databases. Setting the stage to create a gmorning_gnight database tomorrow
+
+**Thoughts:** I'm getting better at this, but I still make some easy SQL mistakes. It's been nice to challenge myself on this. 
+
+**Link to work:** [RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions)
