@@ -213,3 +213,13 @@ output:
 **Thoughts:** I'm getting better at this, but I still make some easy SQL mistakes. It's been nice to challenge myself on this. 
 
 **Link to work:** [RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions)
+
+### Day 20: January 20, 2019
+
+**Time:** 90 Minutes (8:00pm to 9:30pm)
+
+**Today's Progress:** Finalized the gmorning and gnight tables in Postgres, began building a script for updating these on a regular basis. Also input all of the current Hamilthoughts into a table, not sure why yet
+
+**Thoughts:** I'm excited to start playing with the data now instead of just importing it
+
+**Link to work:** [RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions)
