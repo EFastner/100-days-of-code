@@ -3,8 +3,8 @@ title: "100 Days of Code Tracking Log"
 author: "Eric Fastner"
 date: "January 1, 2019"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---  
 
 
@@ -223,3 +223,13 @@ output:
 **Thoughts:** I'm excited to start playing with the data now instead of just importing it
 
 **Link to work:** [RPostgreSQL Functions](https://github.com/EFastner/RPostgreSQL_Functions)
+
+### Day 21: January 21, 2019
+
+**Time:** 60 Minutes (11:00pm to 12:00am)
+
+**Today's Progress:** Created script for daily updating. Hoping to load onto the Raspeberry Pi tomorrow and create a Chron job to update each day
+
+**Thoughts:** Hopefully building a Chron Job will build a good foundation for updating this in the future
+
+**Link to work:** [Daily update script](https://github.com/EFastner/twitter_api/blob/master/gmorning_gnight/get_daily_tweets.r)
