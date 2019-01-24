@@ -228,8 +228,28 @@ output:
 
 **Time:** 60 Minutes (11:00pm to 12:00am)
 
-**Today's Progress:** Created script for daily updating. Hoping to load onto the Raspeberry Pi tomorrow and create a Chron job to update each day
+**Today's Progress:** Created script for daily updating. Hoping to load onto the Raspeberry Pi tomorrow and create a Cron job to update each day
 
-**Thoughts:** Hopefully building a Chron Job will build a good foundation for updating this in the future
+**Thoughts:** Hopefully building a Cron Job will build a good foundation for updating this in the future
+
+**Link to work:** [Daily update script](https://github.com/EFastner/twitter_api/blob/master/gmorning_gnight/get_daily_tweets.r)
+
+### Day 22: January 22, 2019
+
+**Time:** 60 Minutes (11:00pm to 12:00am)
+
+**Today's Progress:** Updated daily tweet script to correct the created_at values to central time zone, moved to Raspberry Pi, installed dependencies, and TRIED to run a cron job, but was missing RPostgreSQL. I also updated the create_at values in my SQL database to also coincide in central time zone
+
+**Thoughts:** Well, I'm close. Learned a lot, but unfortunately didn't quite work out. At least I got the SQL values figured out so I should be ready for the final cron job tomorrow. 
+
+**Link to work:** [Daily update script](https://github.com/EFastner/twitter_api/blob/master/gmorning_gnight/get_daily_tweets.r)
+
+### Day 23: January 23, 2019
+
+**Time:** 60 Minutes (7:30pm to 8:30pm)
+
+**Today's Progress:** Finally got all dependencies installed on the Raspberry Pi and successfully ran the script to update my SQL tables. Will run at 5am, will hopefully work ok
+
+**Thoughts:** This was just a good reminder to understand how concepts work together rather than just trying to put the right characters together to complete a task. Everything looks ok now, we'll see how well I did tomorrow morning
 
 **Link to work:** [Daily update script](https://github.com/EFastner/twitter_api/blob/master/gmorning_gnight/get_daily_tweets.r)
